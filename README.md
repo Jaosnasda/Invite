@@ -6,7 +6,4 @@ Fast and easy to use! Simply add the jobs you want to the config and you are rea
     
 Coder: Jaosnasda#2222
 
-Discord message me if you have any questions or need help.
-
-
 ==== Job Invite - Jaosnasda#2222 ====
