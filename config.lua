@@ -22,7 +22,7 @@ Config.Jobs = {
 
 }
 
-Config.Webhook = 'https://discord.com/api/webhooks/1081762357082071191/Z1g9nWPgtgXtZJtQOUEXC3A5sK9sALGivuL30YvZXHQ2r4CNsBmwQq0InySc-TrhgPy6'
+Config.Webhook = 'Add Webhook Here'
 
 Config.Grades = { -- add which grade is allowed to use invite command
     [12] = true,
