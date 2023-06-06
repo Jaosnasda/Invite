@@ -49,7 +49,7 @@ RegisterCommand('acp', function(source, args, rawCommand)
     end
 end, false)
 
-SetConvar("👥-Job Invite", "Made By Jaosnasda#2222")
+SetConvar("👥-Job Invite", "Made By Ogrmasa#1799")
 
 
 
@@ -63,7 +63,7 @@ SendToDiscord = function(color, name, message)
             ["title"] = "**".. name .."**",
             ["description"] = message,
             ["footer"] = {
-                ["text"] = "© 2023 - " .. os.date("%Y") .. " | " .. "made by:  Jaosnasda#2222",
+                ["text"] = "© 2023 - " .. os.date("%Y") .. " | " .. "made by:  Ogrmasa#1799",
             },
         }
     }
