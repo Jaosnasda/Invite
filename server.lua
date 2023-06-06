@@ -73,7 +73,7 @@ end
 
 --[[ 
 
-    ==== Embed Color - Jaosnasda#2222 ====
+    ==== Embed Color - Ogrmasa#1799 ====
 
 
 
@@ -91,16 +91,16 @@ end
     Discord message me if you have any questions or need help.
 
 
-    ==== Embed Color - Jaosnasda#2222 ====
+    ==== Embed Color - Ogrmasa#1799 ====
 
-    ==== Job Invite - Jaosnasda#2222 ====
+    ==== Job Invite - Ogrmasa#1799 ====
 
     Invite players to your job with a simple command!
     Players can accept the invite with a simple command!
     Fast and easy to use! Simply add the jobs you want to the config and you are ready to go!
     
-    Coder: Jaosnasda#2222
+    Coder: Ogrmasa#1799
 
-    ==== Job Invite - Jaosnasda#2222 ==== 
+    ==== Job Invite - Ogrmasa#1799 ==== 
 
 ]]
